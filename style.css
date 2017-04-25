@@ -10,7 +10,7 @@ body{
 	margin: 0 auto;
 	box-sizing: border-box;
 }
-#playbtn, #stopbtn, #switchbtn, #switchbtn, #shufflebtn {
+#playbtn, #stopbtn{
 	display: inline-flex;
 	text-align: center;
 	height: 75px;

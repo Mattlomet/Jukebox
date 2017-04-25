@@ -44,7 +44,7 @@ this.loadSong=loadSong;
 function Song (fileName,artist){
 	this.fileName=fileName;
 	this.artist=artist
-	this.createSongFromLibary=createSongFromLibary;
+	// this.createSongFromLibary=createSongFromLibary;
 
 	//function createSongFromLibary(event){
 		//var inputtedbox = inputbox.value;
